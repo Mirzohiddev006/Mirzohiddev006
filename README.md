@@ -1,5 +1,4 @@
 <h1 align="center">Hello 👋, I'm Mirzohid</h1>
-> **How to use:** To show this README on your GitHub profile, create a repository named `Mirzohiddev006` and put this README.md file in it.
 <p align="center">🚀 On my journey to become a Frontend Developer</p>
 
 ### 🧑‍💻 Skills
