@@ -40,11 +40,6 @@
 </p>
 ---
 
-### 🏆 My Codewars Rank
-
-<p align="center">
-<img src="https://www.codewars.com/users/Mirzohiddev006/badges/large"/>
-</p>
 ### 💻 Most Used Languages
 
 <p align="center">
