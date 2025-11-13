@@ -51,5 +51,7 @@
 ### 📁 Popular Repositories
 
 <p align="center">
-  <a href="https://github.com/Mirzohiddev006/BiteWise">BiteWise</a> •
+  <a href="https://github.com/Mirzohiddev006/BiteWise">BiteWise</a> 
+  <a href="https://github.com/Mirzohiddev006/eric-s-consulting">Eric's consulting</a> 
+  <a href="https://github.com/Mirzohiddev006/tseu-it-club">tseu-it-club</a>•
 </p>
