@@ -154,13 +154,13 @@ const mirzohid: SeniorFrontendEngineer = {
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
 │                                                                             │
-│   "First, solve the problem. Then, write the code."                        │
+│   "First, solve the problem. Then, write the code."                         │
 │                                                                             │
-│   ▸ Clean Architecture    → Separation of concerns, maintainable code      │
-│   ▸ Performance First     → Lighthouse 90+ scores, optimized bundles       │
-│   ▸ Accessibility         → WCAG 2.1 AA compliance, semantic HTML          │
-│   ▸ Testing Culture       → Unit, integration, e2e coverage                │
-│   ▸ Documentation         → Self-documenting code, clear README files      │
+│   ▸ Clean Architecture    → Separation of concerns, maintainable code       │
+│   ▸ Performance First     → Lighthouse 90+ scores, optimized bundles        │
+│   ▸ Accessibility         → WCAG 2.1 AA compliance, semantic HTML           │
+│   ▸ Testing Culture       → Unit, integration, e2e coverage                 │
+│   ▸ Documentation         → Self-documenting code, clear README files       │
 │                                                                             │
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
