@@ -186,7 +186,7 @@ const mirzohid: SeniorFrontendEngineer = {
 <br/>
 
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-667eea?style=for-the-badge&logo=safari&logoColor=white)](https://your-portfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-667eea?style=for-the-badge&logo=safari&logoColor=white)]([https://your-portfolio.com](https://portfolio-m-i-dev.vercel.app/))
 [![Resume](https://img.shields.io/badge/Resume-Download-764ba2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://your-resume-link.com)
 
 <br/>
