@@ -30,8 +30,8 @@
 ```typescript
 const mirzohid: SeniorFrontendEngineer = {
   location: "Uzbekistan 🇺🇿",
-  role: "Senior Frontend Developer",
-  experience: "5+ years building production apps",
+  role: "Junior Frontend Developer",
+  experience: "1+ years building production apps",
 
   philosophy: "Write code that tells a story",
   approach: "Performance-first, accessibility-always",
