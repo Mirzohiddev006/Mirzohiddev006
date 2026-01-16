@@ -28,7 +28,7 @@
 ## 🎯 About
 
 ```typescript
-const mirzohid: SeniorFrontendEngineer = {
+const mirzohid: JuniorFrontendEngineer = {
   location: "Uzbekistan 🇺🇿",
   role: "Junior Frontend Developer",
   experience: "1+ years building production apps",
