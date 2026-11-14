@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="205" viewBox="0 0 850 205" role="img" aria-label="Contribution Streak">
+<title>Contribution Streak</title>
+<style>
+  .t { font: 600 18px 'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif; fill: #34D399; }
+  .l { font: 400 14px 'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif; fill: #E6EDF3; }
+  .v { font: 700 14px 'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif; fill: #E6EDF3; }
+  .m { font: 400 12px 'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif; fill: #8B949E; }
+  .big { font: 700 28px 'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif; fill: #E6EDF3; }
+  .fade { opacity: 0; animation: fade .6s ease-out forwards; }
+  @keyframes fade { to { opacity: 1; } }
+  @keyframes grow { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+</style>
+<defs>
+  <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#064E3B"/><stop offset=".5" stop-color="#059669"/><stop offset="1" stop-color="#34D399"/>
+  </linearGradient>
+</defs>
+<rect x="0.5" y="0.5" width="849" height="204" rx="10" fill="#0D1117" stroke="#1F6F4A"/>
+<clipPath id="card"><rect x="0.5" y="0.5" width="849" height="204" rx="10"/></clipPath>
+<rect x="0" y="0" width="850" height="4" fill="url(#g)" clip-path="url(#card)"/>
+<text x="25" y="38" class="t">Contribution Streak</text>
+<g class="fade" style="animation-delay:0.15s"><text x="125" y="108" text-anchor="middle" class="big">2,214</text><text x="125" y="166" text-anchor="middle" class="v" style="fill:#E6EDF3">Total Contributions</text><text x="125" y="186" text-anchor="middle" class="m">since 2024</text></g><circle cx="425" cy="98" r="40" fill="none" stroke="#10B981" stroke-width="5"/><g transform="translate(416,44) scale(1.15)"><circle cx="8" cy="8" r="11" fill="#0D1117"/><path d="M9.533.753V.752c.217 2.385 1.463 3.626 2.653 4.81C13.37 6.74 14.498 7.863 14.498 10c0 3.5-3 6-6.5 6S1.5 13.512 1.5 10c0-1.298.536-2.464 1.425-3.71.214-.299.68-.296.88.012.164.252.341.48.534.666.186.18.417.237.66.124.246-.114.433-.364.425-.689-.035-1.493.383-3.093 1.36-4.448C7.585 1.29 8.374.533 9.06.149c.205-.115.452.06.473.604Z" fill="#34D399"/></g><g class="fade" style="animation-delay:0.30s"><text x="425" y="108" text-anchor="middle" class="big">1</text><text x="425" y="166" text-anchor="middle" class="v" style="fill:#34D399">Current Streak</text><text x="425" y="186" text-anchor="middle" class="m">days in a row</text></g><g class="fade" style="animation-delay:0.45s"><text x="725" y="108" text-anchor="middle" class="big">14</text><text x="725" y="166" text-anchor="middle" class="v" style="fill:#E6EDF3">Longest Streak</text><text x="725" y="186" text-anchor="middle" class="m">days</text></g><line x1="275" y1="60" x2="275" y2="185" stroke="#21262D"/><line x1="575" y1="60" x2="575" y2="185" stroke="#21262D"/>
+</svg>
